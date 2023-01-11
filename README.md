@@ -3,6 +3,8 @@ CRUD utilizando modelo vista-controlador, jdbc, servlet y jsp
 
 ![image](https://user-images.githubusercontent.com/97992147/211700803-16ec8997-5461-4d74-8fb4-7c27c4f2f205.png)
 
+![image](https://user-images.githubusercontent.com/97992147/211702949-966b7e14-7497-4eeb-ba3e-65a85be11088.png)
+
 ![image](https://user-images.githubusercontent.com/97992147/211700908-a1364d0c-43ec-41dc-bb08-df797d6e5c7f.png)
 
 ![image](https://user-images.githubusercontent.com/97992147/211700959-b18fb5a9-1dd1-4a66-bb8d-72be3e6b3338.png)
