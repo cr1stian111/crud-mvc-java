@@ -1,7 +1,6 @@
 # crud-mvc-java
 CRUD utilizando modelo vista-controlador, jdbc, servlet y jsp
 
-Pagina de inicio:
 ![image](https://user-images.githubusercontent.com/97992147/211700803-16ec8997-5461-4d74-8fb4-7c27c4f2f205.png)
 
 Agregar 
