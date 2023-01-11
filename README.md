@@ -5,7 +5,7 @@ CRUD utilizando modelo vista-controlador, jdbc (driver para oracle), servlet y j
 
 ![image](https://user-images.githubusercontent.com/97992147/211702949-966b7e14-7497-4eeb-ba3e-65a85be11088.png)
 
-![image](https://user-images.githubusercontent.com/97992147/211703900-0413fa5f-332d-4a1e-91ab-f7256921dc15.png)
+![image](https://user-images.githubusercontent.com/97992147/211704242-513db797-52bf-49e4-9c94-65a77a9ba1e7.png)
 
 ![image](https://user-images.githubusercontent.com/97992147/211700959-b18fb5a9-1dd1-4a66-bb8d-72be3e6b3338.png)
 
